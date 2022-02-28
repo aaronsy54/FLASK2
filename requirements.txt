@@ -7,7 +7,7 @@ fastapi==0.73.0
 Flask==2.0.2
 Flask-Cors==3.0.10
 Flask-SocketIO==5.1.1
-gunicorn===<latest-version>
+gunicorn
 idna==3.3
 imutils==0.5.4
 itsdangerous==2.0.1
