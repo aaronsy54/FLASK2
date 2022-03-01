@@ -27,3 +27,4 @@ typing_extensions==4.1.1
 Werkzeug==2.0.3
 torch==1.8.1+cpu 
 torchvision==0.9.1+cpu
+opencv-python-headless
